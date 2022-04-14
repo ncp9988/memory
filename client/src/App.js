@@ -1,6 +1,7 @@
 import React from 'react';
 import { Container, AppBar, Typography, Grow, Grid } from '@mui/material';
 
+import memories from './images/memo.jpeg';
 const App = () => {
     return (
         <Container maxWidth="lg">
